@@ -1,0 +1,13 @@
+create table tv_show 
+(     id, integer,
+      name, text, 
+      rating, integer
+                      );
+insert into tv_show
+values (1, 'Spongebob', 4.1);
+
+insert into tv_show
+values (2, 'Blues Home for imaginary friends', 3.5):
+
+insert into tv_show
+values (3, 'Teen titans', 5);
